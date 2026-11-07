@@ -7,6 +7,8 @@ description: Guides text and content creation with clear, human, and direct comm
 
 This skill defines the voice, structure, and mechanics for clear technical and personal writing. It removes artificial cadence, filler, and corporate stiffness in favor of direct, human communication.
 
+When writing a full-length article, tutorial, or deep technical post, read [references/sample-article.md](references/sample-article.md) for an end-to-end example of this tone, structure, and pacing in pure markdown.
+
 ## Perspective and voice
 
 ### Author and reader relationship
