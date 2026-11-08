@@ -129,6 +129,7 @@ Example where a paragraph is required:
 
 Lists must maintain strict grammatical parallelism across all items.
 
+- **Lead-in sentences**: Never start bullet points immediately under a heading without an introductory sentence or paragraph. Always provide a lead-in explaining what the list contains.
 - **Parallel structure**: If the first item begins with an imperative verb, every item must begin with an imperative verb. If the first item is a noun, all items must be nouns. Never mix forms within the same list.
 - **List markers**: Use hyphens (`-`) for bullet lists.
 - **Sentence punctuation**: If bullets are complete sentences, capitalize the first letter and place a period at the end. If bullets are single words, fragments, or short phrases, capitalize the first letter and omit trailing periods.
@@ -172,6 +173,7 @@ Before publishing or finalizing content, check that:
 - Every section with subheadings contains two or more subsections.
 - An empty line exists before and after every heading.
 - Bullet lists use hyphens (`-`) and maintain strict grammatical parallelism.
+- Bullet lists have a lead-in sentence rather than starting directly beneath a heading.
 - No em dashes (`—`) or colon bridges are used.
 - Punctuation sits outside quotation marks.
 - Filler words (_simply_, _actually_, _typically_, _dive in_, etc.) and rhetorical questions are removed.
